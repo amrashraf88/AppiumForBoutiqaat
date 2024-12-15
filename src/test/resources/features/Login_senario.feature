@@ -1,7 +1,7 @@
 Feature: Language Selection
 
   Scenario Outline: User login to his account
-Given User opens
+
     When User chooses Gender
     And User open account tab
     And User presses sign in btn
